@@ -113,7 +113,7 @@ Create a `.env` file with the following variables:
 
 ```
 # Hugging Face settings
-#HUGGINGFACE_API_TOKEN='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'  # Optional, for accessing gated models
+
 
 # Application settings
 DEBUG=False
