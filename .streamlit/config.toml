@@ -1,0 +1,6 @@
+[server]
+fileWatcherType = "poll"
+enableWatchdog = false
+
+[logger]
+level = "error" 

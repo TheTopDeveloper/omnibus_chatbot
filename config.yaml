@@ -1,0 +1,16 @@
+# Model settings
+models:
+  default: "google/flan-t5-base"
+  available:
+    - "google/flan-t5-base"
+    - "google/flan-t5-small"
+    - "stabilityai/stablelm-tuned-alpha-3b"
+    
+# Vector store settings
+vector_store:
+  chunk_size: 1000
+  chunk_overlap: 100
+  
+# Application settings
+debug: false
+max_token_limit: 4096

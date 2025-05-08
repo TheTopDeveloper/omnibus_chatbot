@@ -1,0 +1,83 @@
+2025-05-08 09:39:14,801 - INFO - Starting data loading process
+2025-05-08 09:39:14,803 - INFO - Starting data loading process
+2025-05-08 09:39:18,850 - INFO - CSV data loaded successfully
+2025-05-08 09:39:18,857 - INFO - CSV data loaded successfully
+2025-05-08 09:39:20,305 - INFO - Questionnaire loaded successfully
+2025-05-08 09:39:20,305 - INFO - Questionnaire loaded successfully
+2025-05-08 09:39:23,766 - INFO - Data loading process completed
+2025-05-08 09:39:23,779 - INFO - Data loading process completed
+2025-05-08 09:40:16,460 - INFO - Starting LLM and vector store setup
+2025-05-08 09:40:16,494 - INFO - Data analysis completed
+2025-05-08 09:40:17,136 - INFO - Creating document from text
+2025-05-08 09:40:20,035 - INFO - Creating embeddings
+2025-05-08 09:40:21,138 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-08 09:40:26,298 - INFO - Creating vector store
+2025-05-08 09:41:35,563 - INFO - Loading faiss with AVX512 support.
+2025-05-08 09:41:35,583 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-05-08 09:41:35,583 - INFO - Loading faiss with AVX2 support.
+2025-05-08 09:41:35,913 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-08 09:41:35,981 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-08 09:41:36,078 - INFO - Setting up language model
+2025-05-08 09:43:11,892 - INFO - Starting data loading process
+2025-05-08 09:43:11,892 - INFO - Starting data loading process
+2025-05-08 09:43:14,426 - INFO - CSV data loaded successfully
+2025-05-08 09:43:14,427 - INFO - CSV data loaded successfully
+2025-05-08 09:43:15,034 - INFO - Questionnaire loaded successfully
+2025-05-08 09:43:15,757 - INFO - Questionnaire loaded successfully
+2025-05-08 09:43:18,507 - INFO - Data loading process completed
+2025-05-08 09:43:18,521 - INFO - Data loading process completed
+2025-05-08 09:44:01,609 - INFO - Starting LLM and vector store setup
+2025-05-08 09:44:01,662 - INFO - Data analysis completed
+2025-05-08 09:44:03,648 - INFO - Creating document from text
+2025-05-08 09:44:06,240 - INFO - Creating embeddings
+2025-05-08 09:44:06,809 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-08 09:44:16,365 - INFO - Creating vector store
+2025-05-08 09:45:40,078 - INFO - Loading faiss with AVX512 support.
+2025-05-08 09:45:40,102 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-05-08 09:45:40,102 - INFO - Loading faiss with AVX2 support.
+2025-05-08 09:45:40,874 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-08 09:45:44,443 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-08 09:45:44,604 - INFO - Setting up language model
+2025-05-08 09:49:54,452 - INFO - Starting data loading process
+2025-05-08 09:49:55,590 - INFO - CSV data loaded successfully
+2025-05-08 09:49:56,309 - INFO - Questionnaire loaded successfully
+2025-05-08 09:49:57,711 - INFO - Data loading process completed
+2025-05-08 09:50:09,064 - INFO - Starting LLM and vector store setup
+2025-05-08 09:50:09,432 - INFO - Data analysis completed
+2025-05-08 09:50:09,432 - INFO - Creating document from text
+2025-05-08 09:50:09,756 - INFO - Creating embeddings
+2025-05-08 09:50:10,238 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-08 09:50:14,488 - INFO - Creating vector store
+2025-05-08 09:50:35,879 - INFO - Loading faiss with AVX512 support.
+2025-05-08 09:50:35,880 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-05-08 09:50:35,880 - INFO - Loading faiss with AVX2 support.
+2025-05-08 09:50:36,115 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-08 09:50:36,149 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-08 09:50:39,039 - INFO - Setting up language model
+2025-05-08 09:50:41,585 - INFO - Creating memory and chain
+2025-05-08 09:50:41,593 - INFO - Setup completed successfully
+2025-05-08 09:53:40,024 - INFO - Starting LLM and vector store setup
+2025-05-08 09:53:41,248 - INFO - Data analysis completed
+2025-05-08 09:53:41,481 - INFO - Creating document from text
+2025-05-08 09:53:42,509 - INFO - Creating embeddings
+2025-05-08 09:53:42,560 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-08 09:53:48,595 - INFO - Creating vector store
+2025-05-08 09:54:25,749 - INFO - Setting up language model
+2025-05-08 09:54:30,515 - INFO - Creating memory and chain
+2025-05-08 09:54:30,524 - INFO - Setup completed successfully
+2025-05-08 09:54:42,695 - INFO - Starting data loading process
+2025-05-08 09:54:44,143 - INFO - CSV data loaded successfully
+2025-05-08 09:54:45,103 - INFO - Questionnaire loaded successfully
+2025-05-08 09:54:46,665 - INFO - Data loading process completed
+2025-05-08 10:07:35,520 - INFO - Starting LLM and vector store setup
+2025-05-08 10:07:36,090 - INFO - Data analysis completed
+2025-05-08 10:07:36,104 - INFO - Creating document from text
+2025-05-08 10:07:36,731 - INFO - Creating embeddings
+2025-05-08 10:07:36,801 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-08 10:07:41,242 - INFO - Creating vector store
+2025-05-08 10:08:03,329 - INFO - Setting up language model
+2025-05-08 10:08:07,224 - INFO - Creating memory and chain
+2025-05-08 10:08:07,237 - INFO - Setup completed successfully
